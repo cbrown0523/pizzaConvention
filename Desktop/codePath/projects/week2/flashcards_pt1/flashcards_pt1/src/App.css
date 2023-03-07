@@ -49,3 +49,6 @@
   height: "150px";
   width: "75px";
 }
+.text-center:nth-child(even) {
+  background: #9b3232;
+}
