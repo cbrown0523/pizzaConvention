@@ -1,0 +1,7 @@
+.cardGrid {
+  display: flex;
+  justify-content: space-around;
+}
+.heading1 {
+  text-align: center;
+}
